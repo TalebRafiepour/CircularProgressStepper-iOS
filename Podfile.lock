@@ -1,0 +1,16 @@
+PODS:
+  - FlexColorPicker (1.2.1)
+
+DEPENDENCIES:
+  - FlexColorPicker
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FlexColorPicker
+
+SPEC CHECKSUMS:
+  FlexColorPicker: 2c6fe41cb33a650d5934fad75ab0e25df4b5af2f
+
+PODFILE CHECKSUM: 84fa1de66ad0ebf1bde98ad837bdf884f8e7f617
+
+COCOAPODS: 1.5.3
