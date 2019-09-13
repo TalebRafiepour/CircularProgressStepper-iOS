@@ -14,9 +14,9 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9A9A6DFBF33C0809BD9B32C8C8B776E8"
-               BuildableName = "FlexColorPicker.framework"
-               BlueprintName = "FlexColorPicker"
+               BlueprintIdentifier = "5BFD6B8680AD5D886539909021F3D313"
+               BuildableName = "CircularProgressStepper.framework"
+               BlueprintName = "CircularProgressStepper"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>

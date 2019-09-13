@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-examples-demo/Pods-examples-demo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CircularProgressStepper/CircularProgressStepper.framework
+${BUILT_PRODUCTS_DIR}/FlexColorPicker/FlexColorPicker.framework

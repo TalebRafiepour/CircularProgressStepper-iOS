@@ -1,16 +1,20 @@
 PODS:
+  - CircularProgressStepper (0.1)
   - FlexColorPicker (1.2.1)
 
 DEPENDENCIES:
+  - CircularProgressStepper
   - FlexColorPicker
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
+    - CircularProgressStepper
     - FlexColorPicker
 
 SPEC CHECKSUMS:
+  CircularProgressStepper: 44f108f704d544702e70b0827f3a7e7e769e3590
   FlexColorPicker: 2c6fe41cb33a650d5934fad75ab0e25df4b5af2f
 
-PODFILE CHECKSUM: 84fa1de66ad0ebf1bde98ad837bdf884f8e7f617
+PODFILE CHECKSUM: da8d1d19c85ae586ae51716bcf97e5a17426b57a
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.7.5

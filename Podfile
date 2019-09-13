@@ -7,6 +7,6 @@ target 'examples-demo' do
 
   # Pods for examples-demo
   pod 'FlexColorPicker'
-  pod 'CircularProgressStepper', :path => '../CircularProgressStepper'
+  pod 'CircularProgressStepper'
 
 end
